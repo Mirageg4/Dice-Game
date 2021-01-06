@@ -13,7 +13,7 @@
 <h2>Pull Requests welcome for contribution</h2>
 <hr>
 <p>John Manouse</p>
-<p>Live Link: <a href="xx">Dice Game</a></p>
+<p>Live Link: <a href="xx">No Current Link</a></p>
 <p>Github: <a href="https://github.com/Mirageg4/Dice-Game">Dice Game</a></p>
 <hr>
 <p>License: Project is licensed under the MIT License. 
